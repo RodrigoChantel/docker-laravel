@@ -1,6 +1,5 @@
 
-# Setup Docker Para Projetos Laravel (8, 9, 10 ou 11)
-[Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
+#Cursinho LARAVEL DOCKER
 
 ### Passo a passo
 Clone Repositório
@@ -31,7 +30,7 @@ cp .env.example .env
 
 Atualize as variáveis de ambiente do arquivo .env
 ```dosini
-APP_NAME="Especializa Ti"
+APP_NAME="Curso Docker"
 APP_URL=http://localhost:8989
 
 DB_CONNECTION=mysql
